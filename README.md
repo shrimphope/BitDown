@@ -119,4 +119,3 @@ python bitdown.py
 - 开发语言：Python 3
 - GUI框架：PyQt5
 - 下载引擎：libtorrent
-- 通知库：plyer"# BitDown" 
